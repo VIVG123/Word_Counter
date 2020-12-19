@@ -17,7 +17,7 @@ On <https://github.com/VIVG123/Word_Counter>, click the green "Clone or Download
 In a [command prompt or Terminal window](https://tutorial.djangogirls.org/en/intro_to_command_line/#what-is-the-command-line), [navigate to the directory](https://tutorial.djangogirls.org/en/intro_to_command_line/#change-current-directory) containing this repository's files. Then type the following and press enter:
 
 ```shell
-mkdir Alphabetical.txt most_popular.txt
+touch Alphabetical.txt most_popular.txt
 ```
 After this operation run the script by typing the following and press enter again.
 
